@@ -12,3 +12,4 @@ After Pruning :
 Time taken = 4 min 30 seconds
 Average Accuracy of Testing over 5 epochs = 96.69%
 Performance on Random Image = 100% as expected 
+Author - Harsh Vinayak
